@@ -1,7 +1,5 @@
 # Hi, I'm Eren Uygur 👋
-
-### I'm a Mechanical Engineer and I want to be a Java Developer ! 
-
+ 
 ```Java
 public class About extends Me { 
 
