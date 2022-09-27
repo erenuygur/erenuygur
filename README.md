@@ -2,9 +2,16 @@
 
 ### I'm a Mechanical Engineer and I want to be a Java Developer ! 
 
-- 🌱 I’m currently learning Java 🤣
-- ⚡ I want to specialize in Java Spring
-- 🥅 2022 Goals: Learn more about Java 🤣
+```Java
+public class About extends Me { 
+
+  private String name = "Eren Uygur";
+  private Display display = Display.HUMAN;
+  private Status currentStatus = Status.LEARNING;
+  private List<Languages> languages = List.of(Turkish, English);
+  
+}
+```
 
 ### Connect with me:
 <p align="left"><a href="https://www.linkedin.com/in/erenuygur/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp
